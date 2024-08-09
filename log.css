@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    background-image: linear-gradient(100deg, #5a7ef5, #e452e9);
+}
+.container
+{
+  width: 20vw;
+  height: 70vh;
+  border-radius: 5px;
+  border: 1px solid black ;
+  border-radius: 17.5px;
+  margin-top: 100px;
+  justify-content: center;
+  margin-left: 600px;
+  padding: 40pt;
+  background-color: white;
+  cursor: pointer;
+}
+.header
+{
+  text-align: center;
+}
+.login
+{
+  margin: 20ox;
+  margin-top: 30px;
+  font-size: medium;
+
+}
+.line
+{
+  margin-top: 10px;
+  padding: 10px;
+}
+#input
+{
+  margin-top: 10px;
+}
+#input p
+{
+  margin-top: 20px;
+}
+#ip
+{
+  text-align: right;
+  margin-top: 13px;
+}
+#in
+{
+  margin-top: 20px;
+  text-align: center;
+  border-radius: 20px;
+  height: 4vh;
+  width: 20vw;
+  background-image: linear-gradient(100deg, #5a7ef5, #e452e9);
+  color: white;
+  border: none;
+  
+}
+#signup
+{
+  text-align: center;
+  margin-top: 40px;
+}
+.images{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 35px;
+  gap: 12px;
+}
+.images img{
+  width: 30px;
+  
+}
+#sign
+{
+  text-align: center;
+  margin-top: 99px;
+}
+#Up
+{
+  text-align: center;
+  margin-top: 20px;
+}
